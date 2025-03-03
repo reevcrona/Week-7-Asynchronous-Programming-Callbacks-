@@ -1,0 +1,12 @@
+{
+  "name": "week-7-asynchronous-programming-callbacks",
+  "version": "1.0.0",
+  "main": "aboutMe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aboutMe.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
